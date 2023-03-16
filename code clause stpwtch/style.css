@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding-top: 20px;
+    background-image: url(https://wallpapertag.com/wallpaper/middle/9/5/b/267455-new-blue-background-1920x1080-for-ipad-pro.jpg);
+    background-size: cover;
+}
+
+h1 {
+    width: 400px;
+    height: 50px;
+    margin: 50px auto;
+    background-color: rgb(180, 216, 233);
+    border: 2.5px solid rgb(51, 33, 53);
+    text-align: center;
+    padding: 20px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+    align-items: center;
+    margin-top: 100px;
+    width: 500px;
+    height: 300px;
+    border: 2.5px solid rgb(23, 4, 25);
+    background-color: rgb(213, 230, 105);
+}
+
+.time {
+    margin-bottom: 30px;
+}
+
+.dig {
+    font-size: 40px;
+    color: white;
+}
+
+.txt {
+    font-size: 20px;
+    color: white
+}
+
+.button {
+    margin-bottom: 10px;
+}
+
+.btn {
+    width: 60px;
+    padding: 10px;
+    margin: 0px 10px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 14px;
+    border-top-left-radius: 14px;
+    cursor: pointer;
+    font-size: 15px;
+    transition: 0.5s;
+    color: black;
+    font-weight: 100;
+}
+
+#start {
+    background-color: #b9ece2;
+}
+
+#stop {
+    background-color: #b9ece2;
+}
+
+#reset {
+    background-color: #b9ece2;
+}
