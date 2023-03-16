@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding-top: 20px;
+    background-image: url(https://wallpapertag.com/wallpaper/middle/9/5/b/267455-new-blue-background-1920x1080-for-ipad-pro.jpg);
+    background-size: cover;
+}
+
+.subcon {
+    text-align: center;
+    border: 2px solid rgb(92, 51, 158);
+    width: 600px;
+    height: 50px;
+    margin: 50px auto;
+    padding: 25px;
+    background-color: rgb(97, 229, 244);
+}
+
+.container {
+    border: 2px solid rgb(92, 51, 158);
+    width: 400px;
+    height: 250px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: rgb(241, 241, 235);
+}
+
+h3 {
+    text-align: center;
+    margin-top: 15px;
+}
+
+input {
+    text-align: center;
+    height: 20px;
+}
+
+#input {
+    margin-left: 15px;
+    margin-top: 20px;
+    height: 20px;
+    width: 162.56;
+    background-color: rgb(255, 220, 252);
+}
+
+#output {
+    height: 20px;
+    background-color: rgb(255, 220, 242);
+    width: 162.56;
+}
+
+#in,
+#out {
+    width: 162.56px;
+    margin-left: 15px;
+    height: 20px;
+    background-color: rgb(255, 222, 252);
+}
+
+#out {
+    margin-left: 15.23px;
+}
+
+.second h3 {
+    text-align: center;
+    margin-top: 40px;
+}
+
+#input2 {
+    margin-left: 15px;
+    margin-top: 20px;
+    height: 20px;
+    width: 162.56;
+    background-color: rgb(255, 220, 246);
+}
+
+#output2 {
+    height: 20px;
+    background-color: rgb(255, 221, 255);
+    width: 162.56;
+}
+
+#in2,
+#out2 {
+    width: 162.56px;
+    margin-left: 15px;
+    height: 20px;
+    background-color: rgb(255, 220, 249);
+}
+
+#out2 {
+    margin-left: 15.23px;
+}
